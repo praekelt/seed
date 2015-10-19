@@ -27,7 +27,7 @@ organization level access controls.
 A lot of UX, design & FED input is needed here to in order to maintain
 conceptual integrity between all of the components.
 
-##Scheduler
+##Stage-based Messaging Engine
 
 * **Lead**: Colin
 * **Team**: SRE
