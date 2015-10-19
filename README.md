@@ -5,7 +5,7 @@ environment.
 
 # Type of Projects
 
-* [Proof of Concept Projects](poc/README.md)
+* [Pioneer Projects](pioneer/README.md)
 * [Town Planner Projects](townplanner/README.md)
 
 We don't build products.

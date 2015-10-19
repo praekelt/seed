@@ -1,4 +1,4 @@
-# Proof of Concept Projects
+# Pioneer Projects
 
 These are shorter projects aimed at learning and improving the Seed blueprint.
 
