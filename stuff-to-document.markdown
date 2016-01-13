@@ -11,3 +11,4 @@ categories: documentation
 5. Our software development process (GitHub, Travis, Sideloader, Testing etc...)
 6. The moon shots started by Simon Cross in the Seed Messaging concept note.
 7. Molo
+8. Pioneer & Townplanner ideas
