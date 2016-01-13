@@ -1,0 +1,16 @@
+---
+layout: page
+title: All Pages
+permalink: /pages/
+---
+<h2 class="c-archives_year">All Pages</h2>
+<ul class="c-archives__list">
+{% for page in site.pages | sort:'title' %}
+    {% if page.categories contains 'documentation' %}
+    <li class="c-archives__item">
+        <h3><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h3>
+        <p>{{ page.date | date: "%b %-d, %Y" }}</p>
+    </li>
+    {% endif %}
+{% endfor %}
+</ul>

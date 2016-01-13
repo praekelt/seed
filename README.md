@@ -1,15 +1,23 @@
-# Seed
+# material-jekyll-theme
+[Demo](http://alexcarpenter.me/material-jekyll-theme)
 
-A blueprint for projects that enrich, transform and draw sustenance from their
-environment.
+![Material Jekyll Theme](https://d13yacurqjgara.cloudfront.net/users/37718/screenshots/2430279/slice_1.jpg)
 
-# Type of Projects
+## Getting started
+1. `git clone https://github.com/alexcarpenter/material-jekyll-theme.git`
+2. `cd material-jekyll-theme`
+3. Configure the `_config.yml` file as needed
+4. `jekyll serve`
 
-* [Pioneer Projects](pioneer/README.md)
-* [Town Planner Projects](townplanner/README.md)
+## Options
+Customize your options within the `_config.yml` file.
 
-We don't build products.
-
-# Sections
-
-* [Engineering](engineering/README.md)
++ Theme
+  - Green
+  - Blue
+  - Orange
+  - Purple
+  - Grey
++ Fixed Navigation
+  - True
+  - False
