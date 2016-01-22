@@ -13,6 +13,7 @@ Contents:
 
    pioneer/introduction.rst
    townplanner/introduction.rst
+   engineering/introduction.rst
 
 
 Indices and tables
