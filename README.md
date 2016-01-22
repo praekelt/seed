@@ -5,11 +5,11 @@ environment.
 
 # Type of Projects
 
-* [Pioneer Projects](pioneer/README.md)
-* [Town Planner Projects](townplanner/README.md)
+* [Pioneer Projects](pioneer/introduction.rst)
+* [Town Planner Projects](townplanner/introduction.rst)
 
 We don't build products.
 
 # Sections
 
-* [Engineering](engineering/README.md)
+* [Engineering](engineering/introduction.rst)
