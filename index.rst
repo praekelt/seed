@@ -1,10 +1,11 @@
 .. Seed Handbook documentation master file, created by
    sphinx-quickstart on Fri Jan 22 18:36:58 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Welcome to Seed Handbook's documentation!
-=========================================
+Seed Handbook
+=============
+
+The Seed Handbook is a blueprint for projects that enrich, transform and draw
+sustenance from their environments.
 
 Contents:
 
