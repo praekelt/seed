@@ -1,9 +1,11 @@
-# Town Planner Projects
+Town Planner Projects
+=====================
 
 These are longer projects aimed at transforming societies and contributing to
 building capable states.
 
-# Criteria
+Criteria
+--------
 
 * Government endorsement,
 * working in multi-stakeholder consortia

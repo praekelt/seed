@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    pioneer/introduction.rst
+   townplanner/introduction.rst
 
 
 Indices and tables
