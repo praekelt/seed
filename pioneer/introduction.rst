@@ -1,8 +1,10 @@
-# Pioneer Projects
+Pioneer Projects
+================
 
 These are shorter projects aimed at learning and improving the Seed blueprint.
 
-# Criteria
+Criteria
+--------
 
 * It’s a learning opportunity
 * to address a global problem,
