@@ -10,7 +10,7 @@ Over the last three years we have developed and maintained an continuous integra
 
 > Visit the [Sideloader Github repository][sideloader].
 
-Any change made to any of our software proejcts is automatically tested and checked for code coverage. If all audits pass, the software is versioned, prepared as a Debian package, and immediately deployed to a QA server without any manual intervention. This ensures that our deploys remain relatively small, predictable, and repeatable.
+Any change made to any of our software projects is automatically tested and checked for code coverage. If all audits pass, the software is versioned, prepared as a Debian package, and immediately deployed to a QA server without any manual intervention. This ensures that our deploys remain relatively small, predictable, and repeatable.
 
 As changes have successfully been applied on the QA server, we typically have good guarantees that the changes can be applied to the production environment as well. Like QA deploys, production builds are completely automated and repeatable.
 
